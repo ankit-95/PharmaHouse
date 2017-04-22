@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PharmaHouse</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Be a Seller</string>
+    <string name="slide_1_desc">A seller is an individual or entity that exchanges any type of good or service in return for payment!</string>
+
+    <string name="slide_2_title">Be a Customer</string>
+    <string name="slide_2_desc">A customer is the recipient of a good, service, product, or idea, obtained from a seller or supplier for a monetary or other valuable consideration!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
